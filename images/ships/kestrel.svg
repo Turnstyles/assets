@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px"
+	 width="1280px" height="800px"
+	 viewBox="0 0 1280 800" enable-background="new 0 0 1280 800" xml:space="preserve">
+<pattern  x="128.5" y="784.5"
+		  width="66.15" height="76.384"
+		  patternUnits="userSpaceOnUse" id="SVGID_1_"
+		  viewBox="44.274 -76.536 66.15 76.384" overflow="visible">
+	<g>
+		<polygon fill="none" points="44.274,-0.151 110.424,-0.151 110.424,-76.535 44.274,-76.535 		"/>
+		<g>
+			<polygon fill="none" points="44.274,-76.537 110.424,-76.537 110.424,-0.152 44.274,-0.152 			"/>
+			<g>
+				<polygon fill="none" points="44.274,-0.15 44.274,-76.537 110.424,-76.537 110.424,-0.15 				"/>
+				<line fill="none" x1="17.25" y1="-6.15" x2="23.25" y2="-0.15"/>
+				<line fill="none" x1="17.25" y1="-0.15" x2="23.25" y2="-6.15"/>
+				<path fill="none" stroke="#231F20" stroke-width="0.3" d="M60.812-28.795"/>
+				<polygon fill="none" stroke="#231F20" stroke-width="0.3" points="71.837,-28.795 66.326,-38.345 55.298,-38.345 
+					49.789,-28.795 55.298,-19.25 66.326,-19.25 				"/>
+				<path fill="none" stroke="#231F20" stroke-width="0.3" d="M60.812-9.701"/>
+				<polygon fill="none" stroke="#231F20" stroke-width="0.3" points="71.836,-9.701 66.326,-19.25 55.297,-19.25 49.788,-9.701 
+					55.297,-0.15 66.326,-0.15 				"/>
+				<path fill="none" stroke="#231F20" stroke-width="0.3" d="M93.89-28.795"/>
+				<polygon fill="none" stroke="#231F20" stroke-width="0.3" points="104.915,-28.795 99.4,-38.345 88.375,-38.345 82.863,-28.795 
+					88.375,-19.25 99.4,-19.25 				"/>
+				<path fill="none" stroke="#231F20" stroke-width="0.3" d="M93.89-9.701"/>
+				<polygon fill="none" stroke="#231F20" stroke-width="0.3" points="104.914,-9.701 99.4,-19.25 88.375,-19.25 82.862,-9.701 
+					88.375,-0.15 99.4,-0.15 				"/>
+				<path fill="none" stroke="#231F20" stroke-width="0.3" d="M60.812-66.986"/>
+				<polygon fill="none" stroke="#231F20" stroke-width="0.3" points="71.837,-66.986 66.327,-76.537 55.298,-76.537 
+					49.789,-66.986 55.298,-57.439 66.327,-57.439 				"/>
+				<path fill="none" stroke="#231F20" stroke-width="0.3" d="M60.812-47.893"/>
+				<polygon fill="none" stroke="#231F20" stroke-width="0.3" points="71.837,-47.893 66.326,-57.439 55.298,-57.439 
+					49.789,-47.893 55.298,-38.345 66.327,-38.345 				"/>
+				<path fill="none" stroke="#231F20" stroke-width="0.3" d="M93.89-66.986"/>
+				<polygon fill="none" stroke="#231F20" stroke-width="0.3" points="104.915,-66.986 99.401,-76.537 88.375,-76.537 
+					82.863,-66.986 88.375,-57.439 99.401,-57.439 				"/>
+				<path fill="none" stroke="#231F20" stroke-width="0.3" d="M93.89-47.893"/>
+				<polygon fill="none" stroke="#231F20" stroke-width="0.3" points="104.915,-47.893 99.401,-57.439 88.375,-57.439 
+					82.863,-47.893 88.375,-38.345 99.401,-38.345 				"/>
+				<path fill="none" stroke="#231F20" stroke-width="0.3" d="M44.274-19.25"/>
+				<polygon fill="none" stroke="#231F20" stroke-width="0.3" points="55.297,-19.25 49.788,-28.795 38.765,-28.795 33.25,-19.25 
+					38.765,-9.701 49.788,-9.701 				"/>
+				<path fill="none" stroke="#231F20" stroke-width="0.3" d="M77.351-19.25"/>
+				<polygon fill="none" stroke="#231F20" stroke-width="0.3" points="88.375,-19.25 82.863,-28.795 71.836,-28.795 66.326,-19.25 
+					71.836,-9.701 82.862,-9.701 				"/>
+				<path fill="none" stroke="#231F20" stroke-width="0.3" d="M77.352-57.439"/>
+				<polygon fill="none" stroke="#231F20" stroke-width="0.3" points="88.375,-57.439 82.863,-66.986 71.837,-66.986 
+					66.326,-57.439 71.837,-47.893 82.863,-47.893 				"/>
+				<path fill="none" stroke="#231F20" stroke-width="0.3" d="M110.424-19.25"/>
+				<polygon fill="none" stroke="#231F20" stroke-width="0.3" points="121.452,-19.25 115.938,-28.795 104.915,-28.795 
+					99.401,-19.25 104.915,-9.701 115.938,-9.701 				"/>
+				<path fill="none" stroke="#231F20" stroke-width="0.3" d="M110.425-57.439"/>
+				<polygon fill="none" stroke="#231F20" stroke-width="0.3" points="121.453,-57.439 115.938,-66.986 104.915,-66.986 
+					99.401,-57.439 104.915,-47.893 115.938,-47.893 				"/>
+				<path fill="none" stroke="#231F20" stroke-width="0.3" d="M44.274-57.439"/>
+				<polygon fill="none" stroke="#231F20" stroke-width="0.3" points="55.298,-57.439 49.789,-66.986 38.765,-66.986 33.25,-57.439 
+					38.765,-47.893 49.789,-47.893 				"/>
+				<polygon fill="none" stroke="#231F20" stroke-width="0.3" points="22.227,-55.439 16.711,-64.986 5.688,-64.986 0.173,-55.439 
+					5.688,-45.893 16.711,-45.893 				"/>
+			</g>
+		</g>
+	</g>
+</pattern>
+<g id="Space">
+	<rect fill="#231F20" width="1280" height="800"/>
+</g>
+<g id="Layer_1_2_">
+	<g id="Layer_1_1_" display="none">
+		
+			<image display="inline" overflow="visible" enable-background="new    " width="1280" height="800" xlink:href="../../ElixirProjects/space_opera/design/ftl/ftl.png" >
+		</image>
+	</g>
+	<g id="ship">
+		<polyline fill="#B5B5B5" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="259,214 
+			403,214 417,239 419,252 474,252 487,262 490,279 570,320 724,338 759,359 762,406 725,433 573,451 488,495 484,510 471,517 
+			419,516 411,554 404,556 258,555 246,564 234,561 222,555 225,541 223,531 218,523 216,514 226,505 225,489 219,483 235,479 
+			238,466 202,456 171,424 166,406 181,396 180,380 171,368 169,344 209,299 250,292 248,284 223,285 225,273 225,261 216,250 
+			216,240 225,236 225,223 220,215 242,210 		"/>
+	</g>
+	<g id="Weapons">
+		<path fill="#B5B5B5" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M711,325
+			c0,2.209-1.791,4-4,4h-36c-2.209,0-4-1.791-4-4v-10c0-2.209,1.791-4,4-4h36c2.209,0,4,1.791,4,4V325z"/>
+		<path fill="#B5B5B5" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M721,449.5
+			c0,2.623-1.791,4.75-4,4.75h-49c-2.209,0-4-2.127-4-4.75l0,0c0-2.623,1.791-4.75,4-4.75h49C719.209,444.75,721,446.877,721,449.5
+			L721,449.5z"/>
+		<path fill="#B5B5B5" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M423,219
+			c0,2.209-1.791,4-4,4h-70c-2.209,0-4-1.791-4-4v-17c0-2.209,1.791-4,4-4h70c2.209,0,4,1.791,4,4V219z"/>
+		<path fill="#B5B5B5" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M421,566
+			c0,2.209-1.791,4-4,4h-68c-2.209,0-4-1.791-4-4v-16c0-2.209,1.791-4,4-4h68c2.209,0,4,1.791,4,4V566z"/>
+	</g>
+	<g id="chasey">
+		<polyline fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="584,345 
+			726,344 733,350 734,422 728,429 591,427 554,460 489,464 489,492 482,496 413,496 407,492 407,464 240,462 229,459 231,427 
+			200,425 194,419 195,353 199,347 230,348 232,317 238,309 406,309 406,282 413,275 481,277 485,284 485,313 549,312 		"/>
+	</g>
+	<g id="rooms">
+		
+			<rect x="202" y="351" fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="31" height="66"/>
+		
+			<rect x="238" y="351" fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="65" height="66"/>
+		
+			<rect x="342" y="352" fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="64" height="66"/>
+		
+			<rect x="413" y="316" fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="64" height="66"/>
+		
+			<rect x="483" y="386" fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="64" height="66"/>
+		
+			<rect x="623" y="352" fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="64" height="66"/>
+		
+			<rect x="413" y="386" fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="64" height="66"/>
+		
+			<rect x="483" y="316" fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="64" height="66"/>
+		
+			<rect x="237.5" y="315.5" fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="66" height="31"/>
+		
+			<rect x="237.5" y="422.5" fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="66" height="31"/>
+		
+			<rect x="307.5" y="422.5" fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="66" height="31"/>
+		
+			<rect x="306.5" y="315.5" fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="66" height="31"/>
+		
+			<rect x="412.5" y="281.5" fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="66" height="31"/>
+		
+			<rect x="412.5" y="455.5" fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="66" height="31"/>
+		
+			<rect x="553.5" y="352.5" fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="66" height="31"/>
+		
+			<rect x="553.5" y="387.5" fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="66" height="31"/>
+		
+			<rect x="692" y="352" fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="31" height="66"/>
+	</g>
+	<g id="shield">
+		<g>
+			<pattern  id="SVGID_2_" xlink:href="#SVGID_1_" patternTransform="matrix(1 0 0 1 307.8516 17273.5684)">
+			</pattern>
+			<ellipse fill="url(#SVGID_2_)" cx="428" cy="388" rx="352" ry="221"/>
+			
+				<ellipse opacity="0.2" fill="none" stroke="#333333" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" enable-background="new    " cx="428" cy="388" rx="352" ry="221"/>
+			
+				<ellipse opacity="0.25" fill="none" stroke="#595959" stroke-width="8.5" stroke-linecap="round" stroke-linejoin="round" enable-background="new    " cx="428" cy="388" rx="352" ry="221"/>
+			
+				<ellipse opacity="0.3" fill="none" stroke="#8C8C8C" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" enable-background="new    " cx="428" cy="388" rx="352" ry="221"/>
+			
+				<ellipse fill="none" stroke="#9C9C9C" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" cx="428" cy="388" rx="352" ry="221"/>
+			
+				<ellipse fill="none" stroke="#BDBDBD" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round" cx="428" cy="388" rx="352" ry="221"/>
+			
+				<ellipse fill="none" stroke="#C7C7C7" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" cx="428" cy="388" rx="352" ry="221"/>
+			
+				<ellipse fill="none" stroke="#D6D6D6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" cx="428" cy="388" rx="352" ry="221"/>
+			<ellipse fill="none" stroke="#E0E0E0" stroke-linecap="round" stroke-linejoin="round" cx="428" cy="388" rx="352" ry="221"/>
+		</g>
+	</g>
+	<g id="target">
+		
+			<path opacity="0.15" fill="#E6E6E6" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" enable-background="new    " d="
+			M879,582l44,41h320l2-17l17-3l-1-476l-15-15l-252-3l-17-17h-98C879,92,879,598,879,582z"/>
+		
+			<radialGradient id="SVGID_3_" cx="843.5" cy="203" r="234.9886" gradientTransform="matrix(1 0 0 1 232 189)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#717375;stop-opacity:0.5"/>
+			<stop  offset="0.3509" style="stop-color:#737577;stop-opacity:0.6886"/>
+			<stop  offset="0.4774" style="stop-color:#7A7C7D;stop-opacity:0.7566"/>
+			<stop  offset="0.5674" style="stop-color:#858789;stop-opacity:0.805"/>
+			<stop  offset="0.6403" style="stop-color:#969899;stop-opacity:0.8442"/>
+			<stop  offset="0.7027" style="stop-color:#ACAEAF;stop-opacity:0.8777"/>
+			<stop  offset="0.758" style="stop-color:#C8C8C9;stop-opacity:0.9074"/>
+			<stop  offset="0.8067" style="stop-color:#E7E7E8;stop-opacity:0.9336"/>
+			<stop  offset="0.8372" style="stop-color:#FFFFFF;stop-opacity:0.95"/>
+			<stop  offset="1" style="stop-color:#FFFFFF"/>
+		</radialGradient>
+		
+			<ellipse opacity="0.2" fill="url(#SVGID_3_)" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" enable-background="new    " cx="1075.5" cy="392" rx="189.5" ry="273"/>
+	</g>
+</g>
+<g id="Subsystems">
+</g>
+<g id="Systems">
+	<g id="WeaponsList">
+		<g id="WeaponItem">
+		</g>
+	</g>
+</g>
+<g id="Crew">
+	<g id="Positions">
+	</g>
+	<g id="CrewList">
+		<g id="CrewItem">
+		</g>
+	</g>
+</g>
+<g id="Status">
+	<g id="Ftl">
+		<path id="Ground_2_" fill="#E5E5E5" d="M615.099,106.808c0,2.152-1.65,3.897-3.688,3.897h-77.352
+			c-2.037,0-3.688-1.745-3.688-3.897V72.832c0-2.152,1.651-3.897,3.688-3.897h77.352c2.038,0,3.688,1.745,3.688,3.897V106.808z"/>
+		<path fill="none" d="M609.056,71.126c0,1.01-2.745,1.829-6.133,1.829h-58.17c-3.387,0-6.133-0.819-6.133-1.829V58.45
+			c0-1.01,2.746-1.829,6.133-1.829h58.17c3.388,0,6.133,0.819,6.133,1.829V71.126z"/>
+		<text id="Label_1_" transform="matrix(1 0 0 1 539.5 65.502)" fill="#FFFFFF" font-family="'OldstyleHPLHS'" font-size="12">FTL Drive</text>
+		<text id="State" transform="matrix(1 0 0 1 541.5991 120.9131)" fill="#FFFFFF" font-family="'OldstyleHPLHS'" font-size="10">CHARGING</text>
+		<path id="Progress_1_" fill="#FFFFFF" d="M577.245,102.05c0,2.524-1.31,4.571-2.923,4.571h-35.925
+			c-1.614,0-2.924-2.047-2.924-4.571V78.526c0-2.524,1.31-4.571,2.924-4.571h35.925c1.613,0,2.923,2.047,2.923,4.571V102.05z"/>
+	</g>
+	<g id="Scrap">
+		<g id="Ground_1_">
+			<rect x="382" y="49" fill="#F4F4F4" width="122.5" height="36"/>
+		</g>
+		<g id="Icon">
+			<rect x="385" y="52.5" fill="#CCCCCC" width="31" height="29"/>
+		</g>
+		<g id="Count">
+			<text transform="matrix(1 0 0 1 444 73)" font-family="'OldstyleHPLHS'" font-size="18">30</text>
+		</g>
+	</g>
+	<g id="Hull">
+		<rect id="Ground" x="4.5" y="46" fill="#F4F4F4" width="370" height="39.5"/>
+		<rect id="List" x="13" y="64.75" fill="#D3D3D3" width="358.5" height="18.75"/>
+		<rect id="Item" x="16" y="68" fill="#B5B5B5" width="10.5" height="12"/>
+		<text id="Label" transform="matrix(1 0 0 1 13 60.5)" font-family="'OldstyleHPLHS'" font-size="12">HULL</text>
+	</g>
+	<g id="Drones">
+	</g>
+	<g id="Fuel">
+	</g>
+	<g id="Shields">
+	</g>
+	<g id="Mistles">
+	</g>
+</g>
+</svg>
